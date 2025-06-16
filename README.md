@@ -29,8 +29,8 @@ This project implements a **YOLOv8-based detection system** for identifying and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/seal-signature-detection.git
-cd seal-signature-detection
+git clone https://github.com/aromal-rm/cdit_git.git
+cd cdit_git
 
 # Install required packages
 pip install -r requirements.txt
