@@ -1,0 +1,5 @@
+train: /home/labadmin/Desktop/CDIT/YOLO/dataset/images/train
+val: /home/labadmin/Desktop/CDIT/YOLO/dataset/images/val
+
+nc: 2  # Number of classes
+names: ["seal", "signature"]  
